@@ -1,0 +1,5 @@
+git clone: permite copiar la nube de la plataforma.
+git add .: empaquetar al momento de realizar un cambio
+git commit -m "suma de dos numeros": para agregar un comentario al empaquetado (palabras claves)
+git push origin master: subir a la nube actualizaciones del proyecto
+git pull origin master: descarga de la nube el proyecto
